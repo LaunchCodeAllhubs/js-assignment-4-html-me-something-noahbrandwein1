@@ -1,1 +1,29 @@
 /* Write your CSS here! */
+
+body {
+    margin: 8px;
+    display: block;
+  }
+
+  #mainHeading {
+    color: red;
+  }
+  
+  #testP.funParagraph {
+    color: green;
+  }
+
+  .first-image {
+    width: 500px;
+    height: auto;
+  }
+  .container {
+    text-align: center;
+  }
+  
+  div {
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+  }
